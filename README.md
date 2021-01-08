@@ -1,1 +1,1 @@
-# ballerina-github-issue-watcher
+# ballerina-github-issue-summary
